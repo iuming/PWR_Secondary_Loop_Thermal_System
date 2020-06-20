@@ -1,0 +1,2 @@
+F:\University major\课程设计(二)\PWR_Secondary_Loop_Thermal _System\x64\Debug\PWR_Secondary_Loop_Thermal _System.exe
+F:\University major\课程设计(二)\PWR_Secondary_Loop_Thermal _System\x64\Debug\PWR_Secondary_Loop_Thermal _System.pdb
